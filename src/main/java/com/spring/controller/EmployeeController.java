@@ -20,7 +20,7 @@ import com.spring.service.EmployeeManager;
  */
 
 @Controller
-public class EditEmployeeController {
+public class EmployeeController {
 
 	/** The employee manager. */
 	@Autowired
